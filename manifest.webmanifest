@@ -1,0 +1,18 @@
+{
+  "name": "Bússola",
+  "short_name": "Bússola",
+  "description": "Um app pessoal de autoconhecimento.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f1ea",
+  "theme_color": "#f5f1ea",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "imagens/icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "imagens/icone-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "imagens/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "imagens/icone.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

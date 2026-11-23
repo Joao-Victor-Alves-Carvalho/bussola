@@ -1,0 +1,11 @@
+{
+  "name": "bussola",
+  "private": true,
+  "type": "module",
+  "description": "App pessoal de autoconhecimento (PWA local-first).",
+  "scripts": {
+    "conteudo": "node ferramentas/montar-conteudo.mjs",
+    "servir": "python3 -m http.server 8000",
+    "testar": "node ferramentas/testar.mjs"
+  }
+}

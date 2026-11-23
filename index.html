@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Bússola</title>
+  <meta name="description" content="Um app pessoal de autoconhecimento: aprender, se observar, praticar e descobrir.">
+  <meta name="theme-color" content="#f5f1ea" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16181d" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Bússola">
+  <meta name="referrer" content="no-referrer">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="imagens/icone.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="imagens/icone-180.png">
+  <link rel="stylesheet" href="app/estilo.css">
+  <script type="module" src="app/main.js"></script>
+</head>
+<body>
+  <a class="pular" href="#tela">Pular para o conteúdo</a>
+  <header class="barra-topo">
+    <a class="marca" href="#/"><img src="imagens/icone.svg" alt="" width="26" height="26"><span>Bússola</span></a>
+    <a class="botao-ajuda" href="#/ajuda" aria-label="Quando buscar ajuda">
+      <svg class="icone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="3.5"/><path d="M5.6 5.6l3.9 3.9M14.5 14.5l3.9 3.9M18.4 5.6l-3.9 3.9M9.5 14.5l-3.9 3.9"/></svg>
+      <span>Ajuda</span>
+    </a>
+  </header>
+
+  <main id="tela" tabindex="-1"><p class="carregando">Carregando…</p></main>
+
+  <nav class="abas" aria-label="Pilares">
+    <a href="#/" data-aba="inicio"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/></svg><span>Início</span></a>
+    <a href="#/aprender" data-aba="aprender"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5"/><path d="M9 7h6"/></svg><span>Aprender</span></a>
+    <a href="#/observar" data-aba="observar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></svg><span>Observar</span></a>
+    <a href="#/praticar" data-aba="praticar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21c-4-2-7-5.5-7-10a7 7 0 0 1 7-7"/><path d="M12 21c4-2 7-5.5 7-10a7 7 0 0 0-7-7"/><path d="M12 4v17"/></svg><span>Praticar</span></a>
+    <a href="#/descobrir" data-aba="descobrir"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg><span>Descobrir</span></a>
+  </nav>
+</body>
+</html>

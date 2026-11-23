@@ -1,0 +1,9 @@
+# Segredos: a chave do ElevenLabs fica só aqui, nunca no repositório.
+.env
+.env.*
+!.env.example
+
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,162 @@
+{
+ "formato": 1,
+ "trilhas": [
+  {
+   "id": "sensibilidade-energia",
+   "ordem": 1,
+   "titulo": "Sensibilidade e energia",
+   "status": "disponivel",
+   "descricao": "Por que alguns dias te esgotam tão rápido, o que isso tem a ver com um traço de temperamento estudado há décadas e como cuidar da sua energia sem se esconder do mundo.",
+   "planejadas": [],
+   "licoes": [
+    "pas-does",
+    "superestimulacao",
+    "introversao-x-sensibilidade",
+    "rotinas-descompressao"
+   ]
+  },
+  {
+   "id": "conexoes-protecao",
+   "ordem": 2,
+   "titulo": "Conexões e proteção",
+   "status": "em-breve",
+   "descricao": "Por que apostar em pessoas parece tão arriscado, como a proteção vira hábito e um caminho do meio entre se isolar e apostar tudo.",
+   "planejadas": [
+    "Aversão à perda: por que o 7 → 3 pesa tanto",
+    "Teoria do apego e o estilo evitativo",
+    "Como a evitação se reforça",
+    "Apostas pequenas: o meio-termo entre se isolar e apostar tudo"
+   ],
+   "licoes": []
+  },
+  {
+   "id": "crencas-autoimagem",
+   "ordem": 3,
+   "titulo": "Crenças e autoimagem",
+   "status": "em-breve",
+   "descricao": "As lentes que a gente usa para se enxergar: de onde vêm, como distorcem e como tratar a si mesmo com menos dureza.",
+   "planejadas": [
+    "Esquemas emocionais",
+    "Distorções cognitivas mais comuns",
+    "Autocompaixão"
+   ],
+   "licoes": []
+  }
+ ],
+ "licoes": {
+  "pas-does": {
+   "id": "pas-does",
+   "trilha": "sensibilidade-energia",
+   "ordem": 1,
+   "titulo": "O que é ser uma Pessoa Altamente Sensível",
+   "duracaoMin": 6,
+   "palavras": 943,
+   "evidencia": "com-bom-suporte",
+   "texto": "## Um nome para algo que você já sentia\n\nMuita gente chega a esse assunto do mesmo jeito: um post, um vídeo, um comentário de alguém. E vem aquela sensação estranha de ler uma descrição de si mesmo que nunca tinha sido colocada em palavras. \"Então não sou só eu.\"\n\nO nome vem da psicóloga americana **Elaine Aron**. Nos anos 1990, ela começou a pesquisar pessoas que diziam se sentir mais afetadas pelo mundo do que as outras: pelo barulho, pelas emoções, pelos detalhes, pelos dias cheios. Em 1996, publicou o livro que popularizou a expressão **Pessoa Altamente Sensível** (PAS). No ano seguinte, junto com Arthur Aron, publicou o estudo científico que deu um nome técnico ao traço: **sensibilidade de processamento sensorial**.\n\nA ideia central é simples: algumas pessoas **processam as informações de forma mais profunda**. Elas não necessariamente enxergam ou ouvem melhor. O que muda é o quanto o cérebro trabalha em cima do que chega até ele.\n\n## Um traço, não um problema\n\nSer altamente sensível **não é um transtorno nem um diagnóstico**. É um traço de temperamento, como ser mais ou menos extrovertido. Ele tem uma parte herdada e uma parte moldada pelas experiências de vida.\n\nAron estimou que algo entre **15% e 20% das pessoas** têm esse traço em grau alto. Pesquisas mais recentes sugerem que a sensibilidade funciona como um contínuo: um estudo de 2018 (Lionetti e colegas) encontrou três grupos, que os pesquisadores apelidaram de orquídeas (cerca de 30%, muito sensíveis), tulipas (cerca de 40%, no meio) e dentes-de-leão (cerca de 30%, pouco sensíveis).\n\nUm detalhe curioso: comportamentos parecidos aparecem em muitas espécies animais. Em quase todo grupo há indivíduos que observam mais antes de agir. A hipótese é que essa estratégia sobreviveu porque às vezes compensa ser quem percebe o perigo, ou a oportunidade, antes dos outros.\n\n## As quatro letras: DOES\n\nAron resume o traço em quatro características, que formam a sigla **DOES** (do inglês). Segundo ela, uma pessoa altamente sensível tem as quatro, e não só uma ou outra.\n\n**D de profundidade de processamento.** Você pensa muito antes de agir, considera várias possibilidades, prefere observar antes de entrar numa situação nova. É a famosa \"pausa para checar\". Às vezes isso aparece como demorar para decidir ou como ouvir que você \"pensa demais\".\n\n**O de superestimulação.** Se você processa tudo mais a fundo, chega mais rápido no limite. Um dia cheio, um lugar barulhento ou muitas conversas seguidas cansam mais. Não é frescura: é a conta de um sistema que trabalha mais em cada estímulo. A próxima lição é só sobre isso.\n\n**E de emoções intensas e empatia.** As emoções, boas e ruins, chegam com mais força. Uma música te arrepia, uma injustiça te revira, e você sente o clima de uma sala quase antes de entrar nela. Um estudo de 2014 (Acevedo e colegas) mostrou que, ao ver fotos de rostos emocionados, pessoas mais sensíveis tinham mais atividade em áreas do cérebro ligadas à consciência e à empatia.\n\n**S de sensibilidade a sutilezas.** Você nota o que os outros deixam passar: uma mudança no tom de voz, um objeto fora do lugar, um cheiro diferente, um amigo que disse \"tudo bem\" de um jeito que não estava tudo bem.\n\n## O lado bom e o lado caro\n\nUma das descobertas mais interessantes dessa área se chama **suscetibilidade diferencial** (pesquisadores como Michael Pluess e Jay Belsky). Ela diz que as pessoas mais sensíveis são mais afetadas por ambientes ruins, mas também **aproveitam mais os ambientes bons**. A orquídea murcha mais fácil, e também floresce mais quando está no lugar certo.\n\nIsso muda a pergunta. Em vez de \"como deixo de ser assim?\", passa a ser \"**em que condições eu funciono bem?**\". A mesma profundidade que te cansa é a que te faz perceber, se importar, criar e pensar com cuidado.\n\n## O que esse traço não é\n\n- **Não é timidez.** Timidez é medo de ser julgado. Dá para ser sensível e não ter medo nenhum de gente.\n- **Não é introversão**, embora as duas coisas andem muito juntas. A terceira lição desta trilha mostra a diferença.\n- **Não é ansiedade nem outro transtorno**, mas pode conviver com eles. Se algo está pesando além do normal, a tela \"Quando buscar ajuda\" está sempre a um toque.\n\n## Um ponto de atenção\n\nO conceito tem **bom suporte de pesquisa, mas não é unanimidade**. Uma crítica comum é que o questionário usado para medir o traço se sobrepõe a outro traço já bem conhecido, a tendência a sentir emoções negativas (chamada de neuroticismo). Os pesquisadores da área respondem que existe uma parte própria da sensibilidade, que inclui a capacidade de aproveitar mais as coisas boas. O debate continua, e tudo bem: o valor aqui não está no rótulo, e sim no que ele te ajuda a entender sobre você.",
+   "narracao": null,
+   "sinais": [
+    "Lugares cheios, barulhentos ou muito iluminados te cansam mais rápido do que às pessoas ao seu redor.",
+    "Você costuma pensar bastante antes de decidir, e já ouviu que \"pensa demais\".",
+    "Percebe mudanças sutis: no tom de voz de alguém, num ambiente, no humor de um amigo.",
+    "Filmes, músicas ou o sofrimento de outras pessoas te afetam profundamente.",
+    "Depois de um dia cheio, precisa se recolher num lugar quieto para voltar ao normal."
+   ],
+   "perguntas": [
+    "Qual das quatro letras do DOES você mais reconhece em você? Lembra de uma situação recente?",
+    "Que característica sua você sempre viu como defeito e que talvez faça parte desse traço?"
+   ],
+   "pratica": "**Mapa de estímulos.** Por três dias, anote no fim do dia o que mais te drenou e o que mais te recarregou. Não precisa caprichar: duas linhas bastam. No pilar *Se observar*, o check-in diário vai fazer isso por você e mostrar os padrões.",
+   "referencias": [
+    "Elaine N. Aron, *Use a sensibilidade a seu favor: pessoas altamente sensíveis* (1996).",
+    "Elaine e Arthur Aron, \"Sensory-processing sensitivity and its relation to introversion and emotionality\" (1997), o artigo original.",
+    "Lionetti e colegas, \"Dandelions, tulips and orchids\" (2018), sobre os três grupos de sensibilidade.",
+    "O questionário de Aron, em inglês: [hsperson.com](https://hsperson.com)."
+   ]
+  },
+  "superestimulacao": {
+   "id": "superestimulacao",
+   "trilha": "sensibilidade-energia",
+   "ordem": 2,
+   "titulo": "Superestimulação e como se recuperar",
+   "duracaoMin": 6,
+   "palavras": 868,
+   "evidencia": "com-bom-suporte",
+   "texto": "## O balde\n\nImagine que você acorda todo dia com um balde vazio. Cada coisa que acontece coloca um pouco de água nele: o despertador, o trânsito, uma conversa, um e-mail chato, uma decisão, o barulho do vizinho, uma notícia ruim, até uma coisa boa e animada. Água é água.\n\nAo longo do dia o balde vai enchendo. Enquanto há espaço, tudo bem. Quando ele chega na borda, qualquer gota a mais transborda: um barulho pequeno te irrita, uma pergunta simples parece demais, você quer que todo mundo vá embora ou simplesmente \"desliga\".\n\nIsso é **superestimulação**. Para uma pessoa altamente sensível, o balde não é menor. A diferença é que **cada coisa coloca mais água**, porque cada estímulo é processado mais a fundo.\n\n## A zona boa\n\nOs psicólogos falam em **nível de ativação** do sistema nervoso. Com ativação de menos, ficamos entediados e lentos. Com ativação demais, ficamos sobrecarregados e pensamos pior. Entre os dois existe uma zona em que funcionamos bem. Essa ideia de uma curva, com o desempenho melhorando até um ponto e depois caindo, é antiga (vem de um estudo de 1908, de Yerkes e Dodson). Hoje ela é vista como uma simplificação, mas continua sendo uma boa imagem.\n\nPara quem é altamente sensível, a curva parece **deslocada**: o ponto em que vira \"demais\" chega antes. Por isso um dia que parece normal para os outros pode te deixar exausto.\n\n## Nem todo estímulo faz barulho\n\nA gente costuma pensar em estímulo como som e luz. Mas o balde também enche com:\n\n- **Pessoas**: conversar, ler expressões, administrar o que os outros sentem.\n- **Decisões**: até as pequenas, como escolher o que comer.\n- **Novidade**: lugar novo, gente nova, rotina quebrada.\n- **Telas**: notificações, feed, vídeos curtos, um atrás do outro.\n- **Emoções**: as suas e as que você absorve dos outros.\n- **Incerteza**: esperar uma resposta, não saber o plano.\n- **O corpo**: fome, sono ruim e dor diminuem o espaço livre do balde.\n\n## Como saber que está chegando no limite\n\nCada pessoa tem os seus sinais, e vale a pena conhecer os seus, porque **perceber cedo** é muito mais fácil do que recuperar depois que transbordou. Alguns comuns:\n\n- irritação com coisas pequenas;\n- dificuldade de pensar ou de formar frases;\n- barulhos que antes eram neutros agora incomodam;\n- vontade de sumir, ficar sozinho ou cancelar tudo;\n- ficar no automático, como se estivesse atrás de um vidro;\n- choro fácil ou um aperto sem motivo claro;\n- dor de cabeça, tensão nos ombros, cansaço no corpo.\n\n## Como esvaziar o balde\n\n**1. Diminua a entrada.** O primeiro passo é parar de encher. Vá para um lugar mais quieto, abaixe a luz, use fone. Fechar os olhos ajuda mais do que parece, porque a visão é um dos canais que mais trazem informação.\n\n**2. Use o corpo.** Respirar devagar, deixando a expiração mais longa que a inspiração, ajuda o corpo a sair do modo alerta. Uma revisão de estudos de 2018 (Zaccaro e colegas) encontrou ligação entre a respiração lenta e mais calma e equilíbrio. Experimente: inspire contando até 4, solte contando até 6, por uns dois minutos.\n\n**3. Faça um descanso que descansa de verdade.** Rolar o feed parece descanso, mas é mais água no balde: cada post é um estímulo novo. Descanso de verdade tem pouca informação: deitar no escuro, tomar um banho, olhar pela janela, caminhar sem fone.\n\n**4. Procure natureza, se puder.** A **teoria da restauração da atenção** (Rachel e Stephen Kaplan) sugere que ambientes naturais recuperam a atenção porque prendem o olhar de um jeito suave, sem exigir esforço. Uma praça arborizada já conta.\n\n**5. Durma.** O sono é o grande esvaziador de baldes. Noites ruins fazem o dia seguinte começar com o balde pela metade.\n\n## Prevenir é mais barato\n\nRecuperar funciona, mas **dosar** funciona melhor. Isso significa deixar intervalos entre compromissos, não marcar três coisas intensas no mesmo dia e saber de antemão como você vai voltar para casa. A quarta lição desta trilha monta isso como uma rotina.\n\n## Uma distinção importante\n\nRecuperar é sair um pouco **para conseguir voltar**. Evitar é sair **para não voltar mais**. As duas coisas trazem alívio, e por isso às vezes se confundem. Um bom teste é perguntar: \"Depois dessa pausa, vou me sentir mais capaz de lidar com o mundo ou mais distante dele?\". A Trilha 2 volta a esse assunto com calma.",
+   "narracao": null,
+   "sinais": [
+    "No fim de dias cheios, até barulhos pequenos parecem insuportáveis.",
+    "Você fica irritado com mais facilidade quando o dia teve muita coisa, mesmo coisas boas.",
+    "Sente que \"desliga\" ou fica no automático depois de muito contato com pessoas.",
+    "Já cancelou planos porque simplesmente não tinha mais energia.",
+    "Precisa de silêncio ou de pouca luz para voltar ao normal."
+   ],
+   "perguntas": [
+    "O que costuma encher o seu balde mais rápido: pessoas, barulho, decisões, telas?",
+    "Qual é o primeiro sinal de que você está chegando no limite?",
+    "O que realmente te recupera, e o que só parece descanso?"
+   ],
+   "pratica": "**Pausa de 3 minutos.** Quando notar o primeiro sinal de balde cheio, vá para um lugar mais quieto (o banheiro vale), feche os olhos e faça dez respirações com a expiração mais longa que a inspiração: inspire contando 4, solte contando 6. Depois, note de 0 a 10 como você estava antes e como ficou. No pilar *Praticar*, este exercício vai ter áudio guiado.",
+   "referencias": [
+    "Elaine N. Aron, *Use a sensibilidade a seu favor* (1996), capítulo sobre superestimulação.",
+    "Rachel e Stephen Kaplan, *The Experience of Nature* (1989), a origem da teoria da restauração da atenção.",
+    "Zaccaro e colegas, \"How breath-control can change your life\" (2018), revisão sobre respiração lenta."
+   ]
+  },
+  "introversao-x-sensibilidade": {
+   "id": "introversao-x-sensibilidade",
+   "trilha": "sensibilidade-energia",
+   "ordem": 3,
+   "titulo": "Introversão x alta sensibilidade: diferenças e sobreposições",
+   "duracaoMin": 5,
+   "palavras": 774,
+   "evidencia": "com-bom-suporte",
+   "texto": "## Duas palavras que vivem se misturando\n\n\"Introvertido\" e \"altamente sensível\" aparecem tanto juntos que parecem sinônimos. Não são. Eles se sobrepõem bastante, mas descrevem coisas diferentes. Separar os dois ajuda a entender **de onde vem o seu cansaço**, e isso muda o que fazer com ele.\n\n## O que é introversão\n\nA palavra vem de Carl Jung, que em 1921 descreveu pessoas voltadas mais para o mundo interno (introvertidas) e mais para o mundo externo (extrovertidas). Hoje a introversão é estudada como um dos polos da **extroversão**, um dos cinco grandes traços de personalidade. É um dos traços mais pesquisados da psicologia, com evidência **consolidada**.\n\nO que os estudos sugerem é que a extroversão tem muito a ver com **recompensa**. Para pessoas extrovertidas, a agitação social, a novidade e a empolgação dão uma sensação forte de prazer, ligada ao sistema de dopamina. Para pessoas introvertidas, essa recompensa é menor. Por isso elas preferem menos gente, conversas mais profundas e ambientes mais calmos, e sentem que precisam \"recarregar\" depois de muita interação.\n\nIntroversão **não é**:\n\n- **timidez**, que é medo de ser julgado (existe introvertido sem medo nenhum e extrovertido tímido);\n- **antipatia** ou falta de interesse por pessoas;\n- **incapacidade social**. Muitos introvertidos são ótimos ouvintes e falam muito bem quando o assunto importa.\n\n## O que é alta sensibilidade\n\nComo você viu na primeira lição, a alta sensibilidade é sobre **processar tudo mais a fundo**: sons, luzes, emoções, detalhes, decisões. Não é especificamente sobre pessoas. Uma pessoa altamente sensível pode se esgotar sozinha num lugar barulhento, sem trocar uma palavra com ninguém.\n\n## Onde as duas coisas se encontram\n\nElaine Aron estima que **cerca de 70% das pessoas altamente sensíveis são introvertidas**, e uns 30% são extrovertidas. Faz sentido: se cada interação social te dá muita informação para processar, é natural preferir menos interações. Mas também existe gente introvertida que não é especialmente sensível: prefere ficar sozinha, só que não se incomoda com barulho, luz ou caos.\n\nUm jeito simples de ver a diferença:\n\n- **Introversão**: o que cansa é principalmente **gente**, sobretudo muita gente ou conversa superficial. O que recarrega é ficar sozinho.\n- **Alta sensibilidade**: o que cansa é **estímulo demais**, venha de onde vier. O que recarrega é um ambiente com pouca informação.\n\n## O teste das duas cenas\n\nIsto não é um teste científico, só um exercício de imaginação para separar as coisas:\n\n**Cena 1.** Você passa duas horas sozinho num lugar barulhento e cheio de luz, como um shopping lotado ou um show, sem precisar falar com ninguém. Isso te esgota?\n\n**Cena 2.** Você passa três horas conversando com uma pessoa legal, num lugar calmo e silencioso. Isso te esgota?\n\nSe a cena 1 pesa muito, há bastante **sensibilidade** na conta. Se a cena 2 pesa muito, há bastante **introversão**. Se as duas pesam, você provavelmente tem um pouco de cada, como a maioria das pessoas que se reconhecem nesses temas.\n\n## Por que essa diferença importa\n\nPorque as saídas são diferentes.\n\nSe o peso maior vem da **introversão**, a pergunta é sobre **formato**: talvez você goste de pessoas, mas em doses menores, um de cada vez, com conversas que vão além do superficial. Um café com uma pessoa pode ser ótimo, enquanto uma festa com vinte pessoas não é.\n\nSe o peso maior vem da **sensibilidade**, a pergunta é sobre **ambiente**: o mesmo encontro pode ser leve num lugar silencioso e exaustivo num bar barulhento. Às vezes não é a pessoa que cansa, é a música alta.\n\n## O cuidado com os rótulos\n\nRótulos ajudam quando explicam. Atrapalham quando viram sentença. \"Sou introvertido, não sou de gente\" pode ser uma descrição honesta de um custo, ou pode virar um motivo para nunca tentar. Os dois traços dizem **quanto algo custa para você**, não **o que você pode ou não pode ter**. Saber o custo é justamente o que permite planejar, dosar e escolher bem onde investir. A Trilha 2 trata disso com as \"apostas pequenas\".",
+   "narracao": null,
+   "sinais": [
+    "Gosta de pessoas, mas prefere uma conversa profunda a muitas conversas rápidas.",
+    "Se cansa em lugares barulhentos mesmo quando está sozinho.",
+    "Recarrega melhor sozinho do que saindo.",
+    "Já foi chamado de tímido quando, na verdade, só não estava com vontade.",
+    "Precisa de um tempo para se sentir à vontade num grupo."
+   ],
+   "perguntas": [
+    "No seu caso, o que pesa mais: a quantidade de pessoas ou a quantidade de estímulo do ambiente?",
+    "Que formato de encontro com alguém te cansaria pouco e ainda seria bom?"
+   ],
+   "pratica": "**Diário de custo.** Depois dos próximos três encontros com pessoas, anote: quanto cansou (de 0 a 10) e o que pesou mais, as pessoas ou o ambiente. Em poucas semanas, o check-in do pilar *Se observar* mostra esse padrão num gráfico.",
+   "referencias": [
+    "Susan Cain, *O poder dos quietos* (2012).",
+    "Carl G. Jung, *Tipos psicológicos* (1921).",
+    "Lucas e colegas, \"Cross-cultural evidence for the fundamental features of extraversion\" (2000), sobre extroversão e recompensa.",
+    "Elaine N. Aron, *Use a sensibilidade a seu favor* (1996), sobre pessoas sensíveis extrovertidas."
+   ]
+  },
+  "rotinas-descompressao": {
+   "id": "rotinas-descompressao",
+   "trilha": "sensibilidade-energia",
+   "ordem": 4,
+   "titulo": "Rotinas de descompressão",
+   "duracaoMin": 5,
+   "palavras": 744,
+   "evidencia": "com-bom-suporte",
+   "texto": "## A ideia vem do mergulho\n\nQuem mergulha fundo não pode subir de uma vez. O corpo precisa de paradas no caminho para se ajustar à mudança de pressão. Isso se chama **descompressão**.\n\nDepois de um dia intenso acontece algo parecido. Você saiu de um ambiente de muita pressão (gente, barulho, cobrança) e precisa de uma transição antes de estar inteiro de novo. Se você não faz essa transição, ela acontece do pior jeito: irritação, cansaço que não passa, uma noite de sono ruim.\n\nUma rotina de descompressão é só isso: **uma transição planejada**, que você não precisa reinventar cada vez.\n\n## O que a pesquisa diz sobre se recuperar\n\nA psicóloga alemã **Sabine Sonnentag** estuda há anos como as pessoas se recuperam do desgaste do trabalho. Ela e Charlotte Fritz descreveram quatro experiências que ajudam a recuperar a energia:\n\n- **Desligamento**: parar de pensar no que te cansou, e não só parar de fazer.\n- **Relaxamento**: atividades de pouca exigência, que acalmam o corpo.\n- **Domínio**: aprender ou praticar algo que dá uma sensação boa de progresso, como tocar um instrumento, cozinhar ou ler sobre um assunto que te interessa.\n- **Controle**: poder escolher o que fazer com o seu tempo.\n\nUma boa rotina combina algumas dessas quatro coisas. Repare que \"ficar no celular\" raramente entrega alguma delas: não desliga, não relaxa de verdade, não dá sensação de progresso e muitas vezes nem foi uma escolha. Foi o automático.\n\n## Três momentos: antes, durante e depois\n\n### Antes (para o balde encher menos)\n\n- **Deixe espaço na agenda**: um intervalo antes e depois de compromissos intensos.\n- **Saiba o plano**: onde é, quem vai, quanto tempo dura. A incerteza também enche o balde.\n- **Tenha uma saída**: saber como e quando você pode ir embora tira um peso enorme.\n- **Cuide do básico**: coma alguma coisa, durma razoavelmente e leve um fone ou um protetor auricular, se fizer sentido.\n\n### Durante (para dar umas esvaziadas)\n\n- **Micropausas**: dois minutos no banheiro, um pouco de ar na varanda, um copo d'água longe da roda de conversa.\n- **Feche um canal**: se não dá para sair, diminua alguma entrada. Olhe para um ponto fixo, fique num canto mais quieto, respire devagar.\n\n### Depois (o ritual de chegada)\n\nEsse é o coração da rotina. Quando você chega em casa depois de algo cansativo, reserve de 20 a 60 minutos **com o mínimo de informação possível**. Por exemplo:\n\n1. Trocar de roupa por algo confortável.\n2. Um banho morno.\n3. Luz baixa e silêncio, ou uma música calma e conhecida.\n4. Ficar deitado alguns minutos sem tela.\n\nO segredo é ser **sempre o mesmo ritual**. Quando ele já está decidido, você não gasta energia escolhendo o que fazer, e o corpo aprende a associar aqueles passos com \"agora posso baixar a guarda\".\n\n## Também vale para os dias normais\n\nNão precisa esperar um grande evento. Pessoas altamente sensíveis costumam se beneficiar de **um tempo tranquilo todos os dias**, mesmo nos dias comuns. Pode ser a caminhada até o ponto de ônibus sem fone, quinze minutos de leitura antes de dormir ou um café sozinho de manhã.\n\nE na escala da semana: depois de uma semana pesada, um dia ou um turno mais leve funciona como uma descompressão maior.\n\n## Sem culpa\n\nPrecisar de tempo sozinho não é egoísmo nem preguiça. É manutenção, como dormir. A pessoa que se recupera bem é justamente a que consegue estar presente quando está com os outros.\n\n## Mas fique de olho\n\nDescomprimir é para **voltar à superfície**, não para morar no fundo. Se você perceber que está descomprimindo de tudo e não indo mais a lugar nenhum, que o ritual virou um esconderijo, isso não é um fracasso: é um sinal útil. A Trilha 2 fala exatamente sobre esse ponto.",
+   "narracao": null,
+   "sinais": [
+    "Chega em casa depois de um compromisso e precisa de um tempo antes de conseguir conversar ou fazer qualquer coisa.",
+    "Costuma \"descansar\" no celular e mesmo assim continua cansado.",
+    "Marca coisas seguidas, sem intervalo, e paga o preço depois.",
+    "Se sente culpado por precisar de tempo sozinho."
+   ],
+   "perguntas": [
+    "Como seria o seu ritual de chegada ideal, em três passos?",
+    "Qual compromisso da sua semana mais precisaria de um \"antes\" e um \"depois\" planejados?"
+   ],
+   "pratica": "**Monte seu kit de descompressão.** Escolha três coisas que te acalmam de verdade, por exemplo um banho morno, um fone com chuva de fundo e dez minutos deitado no escuro. Use o kit depois do próximo compromisso cansativo e dê uma nota de 0 a 10 para o quanto ajudou. Se a nota for baixa, troque um item e teste de novo.",
+   "referencias": [
+    "Sabine Sonnentag e Charlotte Fritz, \"The Recovery Experience Questionnaire\" (2007), sobre as quatro experiências de recuperação.",
+    "Elaine N. Aron, *Use a sensibilidade a seu favor* (1996).",
+    "Ted Zeff, *The Highly Sensitive Person's Survival Guide* (2004), com estratégias práticas para o dia a dia."
+   ]
+  }
+ }
+}
